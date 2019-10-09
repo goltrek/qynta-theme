@@ -1,0 +1,1 @@
+# qynta-theme
